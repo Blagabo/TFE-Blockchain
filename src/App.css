@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.custom-buttons button {
+  font-size: 15px;
+  margin-bottom: 24px;
+  color: white;
+  padding: 12px;
+  font-weight: bold;
+  margin-right: 16px;
+  border-radius: 16px;
+}
+
+.description {
+  border-radius: 24px;
+  padding: 24px;
+
+  margin-bottom: 64px;
+}
+
+.btn {
+  border-radius: 10px;
+  font-size: 24px;
+  margin: 10px;
+}
+
+.col {
+  padding: 10px;
+}
