@@ -7,7 +7,10 @@ Para poder desplegarlo:
 
 PASO 1:
 
- Descomprimir el RAR y acceder a la carpeta atravez del terminal
+ clonar el repositorio de GitHub y acceder a la carpeta atravez del terminal.
+
+instalar las dependencias de node_modules con:
+ npm install
 
 PASO 2:
 
